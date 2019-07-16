@@ -11,7 +11,7 @@
         To run the programs, install <b>DOSBOX</b> and <b>TASM</b> on your pc.
         You can find easily on google how to install them.
 </ul>
-## Running the programs
+<h3> Running the programs </h3>
 <ol>
     <li>
         After installing DOSBOX and TASM, in the DOS prompt, type <i>'tasm filename'</i>
